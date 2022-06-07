@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "ImgToASCII": {
+      "commandName": "Project",
+      "commandLineArgs": "smile.png"
+    },
+    "Profile 1": {
+      "commandName": "Project",
+      "commandLineArgs": "picture.txt"
+    }
+  }
+}
